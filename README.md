@@ -1,7 +1,7 @@
 
 # ⚡Programa para calcular Campo Elétrico - Cap. 22, Problema 9 (Física)
 
-Este projeto implementa uma interface gráfica em Java (usando Swing) que simula o cálculo do **campo elétrico resultante** gerado por duas partículas carregadas em um ponto \( P \) no plano cartesiano. O problema é baseado no **Capítulo 22 - Problema 9** do livro de física - H A L L I D A Y & R E S N I C K VOL.3 (9ª Edição).
+Este projeto implementa uma interface gráfica em Java (usando Swing) que simula o cálculo do **campo elétrico resultante** gerado por duas partículas carregadas em um ponto \( P \) no plano cartesiano. O problema é baseado no **Capítulo 22 - Problema 9** do livro de física **H A L L I D A Y & R E S N I C K VOL.3 (9ª Edição)**.
 
 ---
 
