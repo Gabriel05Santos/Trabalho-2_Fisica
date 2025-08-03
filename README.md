@@ -99,7 +99,7 @@ Módulo do campo elétrico: 6.40e+00 N/C
 ---
 ## Imagem do programa
 ---
-![Imagem da Calculadora](calculadora.png)
+![Imagem da Calculadora](Captura de tela de 2025-08-02 23-57-51.png)
 ---
 
 
