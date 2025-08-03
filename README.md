@@ -96,10 +96,9 @@ Módulo do campo elétrico: 6.40e+00 N/C
 
 ---
 
----
 ## Imagem do programa
 ---
-![Imagem da Calculadora](Captura de tela de 2025-08-02 23-57-51.png)
+![Imagem da Calculadora](capturaDeTelaProgramaJava.png)
 ---
 
 
