@@ -85,9 +85,11 @@ Módulo do campo elétrico: 6.40e+00 N/C
 ## 🧠 Conceitos Envolvidos
 
 - Campo elétrico gerado por uma carga pontual:
-  \[
-  \vec{E} = \frac{k |q|}{r^2} \hat{r}
-  \]
+  	E = k × |q| / r², onde:
+  - *E* é o módulo do campo elétrico (N/C)
+  - *k* é a constante eletrostática (8,99 × 10⁹ N·m²/C²)
+  - *q* é o valor da carga
+  - *r* é a distância entre a carga e o ponto P
 - Superposição vetorial de campos elétricos
 - Trigonometria para ângulos no plano cartesiano
 - Interface gráfica com `JFrame`, `JPanel`, `JTextField`, `JButton`, `JOptionPane`
