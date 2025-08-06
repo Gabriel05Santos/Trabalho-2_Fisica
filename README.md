@@ -78,8 +78,6 @@ Módulo do campo elétrico: 6.40e+00 N/C
 Ângulo: 90.00°
 ```
 
-*(Exemplo ilustrativo)*
-
 ---
 
 ## 🧠 Conceitos Envolvidos
